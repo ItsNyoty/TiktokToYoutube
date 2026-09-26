@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+downloads/
+credentials.json
+token.json
+history.json
+*.pyc
